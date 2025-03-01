@@ -1,0 +1,44 @@
+{
+    "short_name":"Eltorki_App",
+    "name":"Portfolio_App",
+    "description":"My Portfolio_App",
+    "start_url":"/",
+    "display":"standalone",
+    "orientation":"any",
+    "scope":"/",
+    "background_color":"#01023",
+    "theme_color":"#000",
+    "icon":[
+        {
+            "src":"/img/icon/1.jpg",
+            "size":"72x72",
+            "type":"image/jpg"
+        },
+        {
+            "src":"/img/icon/2.jpg",
+            "size":"96x96",
+            "type":"image/jpg"
+        },
+        {
+            "src":"/img/icon/3.jpg",
+            "size":"128x128",
+            "type":"image/jpg"
+        },
+        {
+            "src":"/img/icon/4.jpg",
+            "size":"152x152",
+            "type":"image/jpg"
+        },
+        {
+            "src":"/img/icon/5.jpg",
+            "size":"384x384",
+            "type":"image/jpg"
+        },
+        {
+            "src":"/img/icon/6.jpg",
+            "size":"512x512",
+            "type":"image/jpg"
+        }
+
+    ]
+}
